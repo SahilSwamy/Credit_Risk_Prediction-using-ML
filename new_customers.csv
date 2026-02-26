@@ -1,0 +1,4 @@
+﻿loan_amnt,term,int_rate,emp_length,annual_inc,dti,fico_range_low
+15000,36,12,5,50000,18,680
+25000,60,15,8,72000,22,650
+8000,36,10,2,90000,12,750
